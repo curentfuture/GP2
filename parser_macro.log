@@ -1,0 +1,15 @@
+2025-11-12 12:49:24,545 INFO [FRED] DCOILWTICO 2000-01-01→2025-11-12 status=200 rows=6480
+2025-11-12 12:49:27,822 INFO [FRED] DCOILBRENTEU 2000-01-01→2025-11-12 status=200 rows=6559
+2025-11-12 12:49:30,497 INFO [FRED] DFF 2000-01-01→2025-11-12 status=200 rows=9443
+2025-11-12 12:49:32,936 INFO [FRED] NASDAQCOM 2000-01-01→2025-11-12 status=200 rows=6506
+2025-11-12 12:49:35,513 INFO [FRED] CBBTCUSD 2000-01-01→2025-11-12 status=200 rows=3964
+2025-11-12 12:49:51,794 INFO [STOOQ] xauusd 2000-01-01→today status=200 rows=6658
+2025-11-12 12:49:55,677 INFO [STOOQ] xagusd 2000-01-01→today status=200 rows=6602
+2025-11-12 12:49:55,721 INFO Saved data/gold_xauusd.csv rows=6658
+2025-11-12 12:49:55,747 INFO Saved data/silver_xagusd.csv rows=6602
+2025-11-12 12:49:55,770 INFO Saved data/oil_wti.csv rows=6480
+2025-11-12 12:49:55,797 INFO Saved data/oil_brent.csv rows=6559
+2025-11-12 12:49:55,827 INFO Saved data/fed_funds.csv rows=9443
+2025-11-12 12:49:55,849 INFO Saved data/nasdaq_close.csv rows=6506
+2025-11-12 12:49:55,867 INFO Saved data/btc_usd.csv rows=3964
+2025-11-12 12:49:55,984 INFO Saved data/macro_joined_daily.csv rows=9448 cols=['date', 'xau_usd_oz', 'xag_usd_oz', 'wti_usd_bbl', 'brent_usd_bbl', 'fedfunds_daily_pct', 'nasdaq_close', 'btc_usd']
